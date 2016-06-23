@@ -1,0 +1,12 @@
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\mikael\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\GITLib\csdotnetDev\csdotnetdev\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
